@@ -1,5 +1,7 @@
 # Hi there, I'm Jonathan 👋
+Software Developer and Maker who has acquired a versatile skillset in various challanging projects at work and in my free time. Doing so, I learn new things with enthusiasm. 
 
+My interests include computer vision, sensors, cloud computing, edge computing, automatization, technology in agriculture, (I)IoT, machine learning and much more. 
 <!--
 **jokober/jokober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,7 +49,7 @@ Here are some ideas to get you started:
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
 ### Projects
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)]([https://github.com/jokober/v2](https://fids-openresearchlab.org/))
+[![FIDS Open Research Lab](https://img.shields.io/badge/-🧬%20My%20Website-000)]([https://github.com/jokober/v2](https://fids-openresearchlab.org/))
 
 
 
