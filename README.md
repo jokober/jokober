@@ -2,19 +2,12 @@
 Software Developer and Maker who has acquired a versatile skillset in various challanging projects at work and in my free time. Doing so, I learn new things with enthusiasm. 
 
 My interests include computer vision, sensors, cloud computing, edge computing, automatization, technology in agriculture, (I)IoT, machine learning and much more. 
-<!--
-**jokober/jokober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Searchwing
 - 🌱 I’m currently learning Kotlin, Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about visual detection and tracking of small objects and birds in particular.
+- ⚡ Fun fact: I partly live on a boat.
+
 
 [![](https://raw.githubusercontent.com/jokober/jokober/master/profile.gif)](https://www.jokober.com/)<!-- If you want the template for my gif, email me! -->
 
